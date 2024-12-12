@@ -8,6 +8,7 @@
 Hi, I'm Rituraj. I'm new on github.
 - I'm currently learning ML.
 - I'm trying to learn DSA as well.
+- I also like speedcubing (my PR is 19 seconds).
 
 ---
 > I'll write a quote here when i find a good one from the internet
